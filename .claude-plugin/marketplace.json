@@ -1,0 +1,12 @@
+{
+  "name": "khoand11-plugins",
+  "owner": { "name": "khoand11" },
+  "description": "Plugin Claude Code của khoand11: agent viết unit test cho dự án brownfield.",
+  "plugins": [
+    {
+      "name": "brownfield-unit-test",
+      "source": "./plugins/brownfield-unit-test",
+      "description": "Agent viết unit test cho dự án brownfield theo đúng quy ước sẵn có."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "client": "claude-code",
+  "skillPath": "skills/brownfield-unit-test",
+  "files": {
+    "skills/brownfield-unit-test/SKILL.md": "05989b2fcd5c2e38ba56acf8731a97e63c5cc6e813dff36b53abdd82f608dca6",
+    "skills/brownfield-unit-test/phases/01-analyze.md": "c9fc839678a54caa7c57616f52c167bd3b9db901255a9be32e841af4a71634dd",
+    "skills/brownfield-unit-test/phases/02-plan.md": "d873c5165760f63c06bb3f5182451ba28b06363c06a5358a23fcd19b00efaa82",
+    "skills/brownfield-unit-test/phases/03-generate.md": "6a7abb27ba04b6f9b478105e99a64998414d5d33613f5d2eb6749d757ba28d40",
+    "skills/brownfield-unit-test/phases/04-verify.md": "3da7b643f0c08490912ce11f1f47656c733ca709710120a11449376550e4d536",
+    "skills/brownfield-unit-test/phases/05-report.md": "f190a81cf6098231e096aa382934f4511ada980fbbae2406e1dbed0442b64bc8",
+    "skills/brownfield-unit-test/playbooks/android-java.md": "3ddb3a6671278beacf4d3a87a3dc32b8f6bd5cc9d11995e27f744ebc9ada8eae",
+    "skills/brownfield-unit-test/playbooks/angular.md": "a70bbebf600b278b7c7e5176a4622788c592c9c23c06654c2c7370c305b68681",
+    "skills/brownfield-unit-test/playbooks/flutter.md": "7ab4118a018c5cfaa9ba71a476ff7c3e1b3500d9a7f53baacedd27fda299ebf0",
+    "skills/brownfield-unit-test/playbooks/ios-swift.md": "b48488d1e3fe2314002d123879e99460c338e3086581082ba18e6898033fbbe6",
+    "skills/brownfield-unit-test/playbooks/java-spring-boot.md": "d67506e34c15aed720e595a6bded433fabf19df00c76fff03bd769646651058a",
+    "skills/brownfield-unit-test/playbooks/nodejs.md": "851c3f28241c5292f58e7d245b98ac2f7e3416c6d37db24fb58402955cfc6187",
+    "skills/brownfield-unit-test/playbooks/python.md": "d3efe2dd43c7fb034589bdbb96687d138b46ed72f85a2cad67f7166a88ba52c2",
+    "skills/brownfield-unit-test/playbooks/react.md": "3614455d62cfa3bc52907f2f4d13c8fcdf2658c6797d711fc1651f6700368353",
+    "skills/brownfield-unit-test/playbooks/vue.md": "75e6b47a78cb6bc0973a93ab15627ba2fc87f55001dca59bd4ccc1d32cde373e",
+    "skills/brownfield-unit-test/templates/plan.md": "a1bd93256e541fb57249663e919524045e7c491a6f0da01ab528d277f3581d05",
+    "skills/brownfield-unit-test/templates/report.md": "9f05a7ab895bf486f375d7cc647aa6fe7b7df806a3209eea254f254ede48c3d5",
+    "skills/brownfield-unit-test/detection.md": "dbd8e2b38a9a853c017ed058c1bfe47d75be65b0ad72cbc23e33d650c3c632a0"
+  }
+}

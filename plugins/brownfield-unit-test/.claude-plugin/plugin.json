@@ -1,0 +1,7 @@
+{
+  "name": "brownfield-unit-test",
+  "version": "0.1.0",
+  "description": "Agent viết unit test cho dự án brownfield theo đúng quy ước sẵn có (Java Spring Boot, Node.js, Python, Angular, React, Vue, Android Java, iOS Swift, Flutter).",
+  "author": { "name": "khoand11" },
+  "keywords": ["unit-test", "brownfield", "testing"]
+}
